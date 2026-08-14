@@ -6,12 +6,19 @@ Keep in mind that Triton-Ascend, as well as the NPU itself, are constantly being
 Keep the following resources in focus:
 
 [https://www.hiascend.com/en/document]()
+
 [https://support.huawei.com/enterprise/en/category/ascend-computing-pid-1557196528909?submodel=doc]()
+
 [https://github.com/Ascend]()
+
 [https://triton-ascend.readthedocs.io/en/latest/index.html]()
+
 [https://github.com/triton-lang/triton-ascend]()
+
 [https://gitcode.com/Ascend/triton-ascend-kernels]()
+
 [https://gitcode.com/AndyCandy/triton-ascend-ops]()
+
 
 ## Contents
 
