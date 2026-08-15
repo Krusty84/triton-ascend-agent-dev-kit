@@ -33,7 +33,8 @@ Keep the following resources in focus:
 
 - Get the corresponding archive from the Releases of this repository.
 - Or, run the `build-workspace-agent-specific-kit.sh` script, and then take the required archive from the `dist/` folder
-
+- Just unpack the corresponding archive into the agent’s working folder.
+  
 ## License
 
 Licensed under the [Apache License 2.0](LICENSE).
